@@ -5,4 +5,4 @@ se realiza un cambio para probar os cambios de
 git status
 git add
 git commit -n
-git push --
+git push -
