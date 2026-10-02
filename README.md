@@ -6,3 +6,4 @@ git status     --ver los archivos modificados y que se van a aagregar al reposit
 git add        --agregar para subir al repositorio
 git commit -m 
 git push
+changes
