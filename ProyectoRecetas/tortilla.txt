@@ -6,3 +6,7 @@ patatas
 cebolla
 aceite
 sal
+
+Procedimiento:
+
+Mezclar todos los ingredientes
